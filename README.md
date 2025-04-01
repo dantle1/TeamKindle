@@ -1,5 +1,4 @@
-# CS 190B F23 Project
-This is the CS190B F23 final project
+# Team Kindle
 
 ## System Requirements
 - System
